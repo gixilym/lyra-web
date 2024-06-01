@@ -54,7 +54,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  row-gap: 2em;
+  row-gap: 1.5em;
   width: 100%;
 }
 
@@ -83,7 +83,7 @@
   color: #b5b5b5;
   font-family: "Lato", sans-serif;
   font-weight: 400;
-  font-size: 1.1em;
+  font-size: 1.25em;
   letter-spacing: 0.3px;
 }
 
@@ -97,17 +97,19 @@
 }
 
 .container-mockups {
+  margin-top: 50px;
+  margin-bottom: 50px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: flex-start;
   justify-content: center;
   width: 70%;
-  padding-left: 1.3em;
   max-width: 900px;
+  row-gap: 30px;
 }
 
 .mockup {
-  width: 400px;
+  width: 700px;
   height: 100%;
 }
 
@@ -188,10 +190,13 @@
   }
 
   .container-mockups {
-    width: 90%;
-    padding-left: 0;
+    width: 100%;
     flex-direction: column;
     align-items: center;
+  }
+
+  .mockup {
+    width: 100%;
   }
 
   .container-download {
@@ -207,5 +212,6 @@
     flex-direction: column;
     margin-bottom: 1em;
     justify-content: space-between;
+    column-gap: 10px;
   }
 }

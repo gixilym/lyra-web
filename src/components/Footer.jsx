@@ -7,13 +7,12 @@ function Footer() {
           href="mailto:gioliotta.io@gmail.com"
           target="_blank"
           rel="noreferrer"
-          aria-label="Soporte mail"
         >
           gioliotta.io@gmail.com
         </a>
       </p>
       <a
-        href="https://github.com/gioliotta/lyra-web"
+        href="https://github.com/gixilym/lyra-web"
         target="_blank"
         rel="noreferrer"
       >

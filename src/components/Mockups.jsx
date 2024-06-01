@@ -1,11 +1,11 @@
-import screenshotHome from "../assets/screenshot-home.png";
-import screenshotText from "../assets/screenshot-text.png";
+import oneImg from "../assets/lyra-one-img.webp";
+import twoImg from "../assets/lyra-two-img.webp";
 
 function Mockups() {
   return (
     <figure className="container-mockups">
-      <img src={screenshotHome} alt="LymWrite Screenshot" className="mockup" />
-      <img src={screenshotText} alt="LymWrite Screenshot" className="mockup" />
+      <img src={oneImg} alt="lyra mockup" className="mockup" />
+      <img src={twoImg} alt="lyra mockup" className="mockup" />
     </figure>
   );
 }

@@ -8,18 +8,22 @@ function Main() {
           lyra<span>: deja volar tu creatividad</span>
         </h1>
         <p>
-          <b>¿</b>Te cuesta organizar tus pensamientos<b>?</b>&nbsp;&nbsp;
-          <b>¿</b>Te olvidas de las cosas importantes<b>?</b>
-          <br />
-          <br />
-          Si quieres organizar tus ideas y pensamientos lyra es la aplicación
-          perfecta para ti. Te ayuda a poner en órden tu mente.
-          <br />
-          <br />
-          ¡Descarga <b style={{ color: "inherit" }}>lyra</b> y comienza a
-          escribir!
+          Diseñada para aquellos que aman escribir de manera enfocada, ya sea un
+          libro, pensamientos, un diario personal, o cualquier tipo de
+          contenido.
         </p>
-        <Download />           
+        <p>
+          Funciona sin conexión, asegurando que tus escritos se mantengan
+          seguros, privados y accesibles en tu dispositivo. No se recopilan
+          datos de usuario.
+        </p>
+        <p>
+          Ofrece temas para adaptarse a tu estilo, comandos de teclado para una
+          experiencia de escritura fluida, y disponible en español e inglés (más
+          próximamente)
+        </p>
+        <p>¡Descarga lyra y transforma tus ideas en palabras!</p>
+        <Download />
       </div>
     </main>
   );
