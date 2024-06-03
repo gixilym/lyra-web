@@ -19,7 +19,7 @@ function Main() {
         </p>
         <p>
           Ofrece temas para adaptarse a tu estilo, comandos de teclado para una
-          experiencia de escritura fluida, y disponible en español e inglés (más
+          experiencia de escritura fluida. Disponible en español e inglés (más
           próximamente)
         </p>
         <p>¡Descarga lyra y transforma tus ideas en palabras!</p>
