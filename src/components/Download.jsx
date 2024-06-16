@@ -9,7 +9,7 @@ function Download() {
         >
           Descargar para Windows
         </a>
-        Versión: 1.0.0 &nbsp;&nbsp;&nbsp;Tamaño: 3.28 MB
+        Versión: 1.0.0 &nbsp;&nbsp;&nbsp;Tamaño: 3.33 MB
       </p>
     </div>
   );
