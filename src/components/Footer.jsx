@@ -3,12 +3,8 @@ function Footer() {
     <footer className="footer">
       <p>
         soporte:&nbsp;
-        <a
-          href="mailto:gioliotta.io@gmail.com"
-          target="_blank"
-          rel="noreferrer"
-        >
-          gioliotta.io@gmail.com
+        <a href="mailto:gixi.tsx@gmail.com" target="_blank" rel="noreferrer">
+          gixi.tsx@gmail.com
         </a>
       </p>
       <a
