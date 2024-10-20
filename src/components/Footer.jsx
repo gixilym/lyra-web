@@ -2,7 +2,7 @@ function Footer() {
   return (
     <footer className="footer">
       <p>
-        soporte:&nbsp;
+        Soporte:&nbsp;
         <a href="mailto:gixi.tsx@gmail.com" target="_blank" rel="noreferrer">
           gixi.tsx@gmail.com
         </a>
@@ -10,11 +10,10 @@ function Footer() {
       <a
         href="https://github.com/gixilym/lyra-web"
         target="_blank"
-        rel="noreferrer"
-      >
-        repositorio de github
+        rel="noreferrer noopen">
+        Código fuente
       </a>
-      <p>derechos reservados</p>
+      <p>Copyright &copy; 2024 Lyra</p>
     </footer>
   );
 }

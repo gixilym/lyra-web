@@ -3,13 +3,11 @@ function Download() {
     <div className="container-download">
       <p className="download-text">
         <a
-          href="https://github.com/gixilym/lyra/releases"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+          href="https://github.com/gixilym/lyra/releases/download/v1.1.0/Lyra_1.1.0_x64.msi"
+          target="_self">
           Descargar para Windows
         </a>
-        Versión: 1.0.0 &nbsp;&nbsp;&nbsp;Tamaño: 3.33 MB
+        Versión: 1.1.0 &nbsp;&nbsp;&nbsp;Tamaño: 3.24 MB
       </p>
     </div>
   );
