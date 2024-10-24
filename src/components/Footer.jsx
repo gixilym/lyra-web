@@ -8,7 +8,7 @@ function Footer() {
         </a>
       </p>
       <a
-        href="https://github.com/gixilym/lyra-web"
+        href="https://github.com/gixilym/lyra"
         target="_blank"
         rel="noreferrer noopen">
         Código fuente
