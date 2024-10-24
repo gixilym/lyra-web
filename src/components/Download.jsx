@@ -7,7 +7,7 @@ function Download() {
           target="_self">
           Descargar para Windows
         </a>
-        Versión: 1.1.0 &nbsp;&nbsp;&nbsp;Tamaño: 3.23 MB
+        Versión: 1.1.0 &nbsp;&nbsp;&nbsp;Tamaño: 3.3 MB
       </p>
     </div>
   );
