@@ -1,3 +1,4 @@
+import Alert from "./Alert.jsx";
 import Download from "./Download.jsx";
 
 function Main() {
@@ -14,6 +15,7 @@ function Main() {
         </p>
         <p>Disponible en español e inglés (más próximamente)</p>
         <Download />
+        <Alert />
       </div>
     </main>
   );
